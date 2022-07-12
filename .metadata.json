@@ -2,9 +2,5 @@
   {
     "package": "tmap",
     "oncran": true
-  },
-  {
-    "package": "tmaptools",
-    "oncran": true
   }
 ]

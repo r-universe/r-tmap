@@ -8,8 +8,3 @@
 	url = https://github.com/r-tmap/tmap
 	shallow = true
 	registered = true
-[submodule "tmaptools"]
-	path = tmaptools
-	url = https://github.com/r-tmap/tmaptools
-	shallow = true
-	registered = true
