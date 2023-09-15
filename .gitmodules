@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "cols4all"]
+	path = cols4all
+	url = https://github.com/mtennekes/cols4all
+	registered = false
 [submodule "tmap"]
 	path = tmap
 	url = https://github.com/r-tmap/tmap
