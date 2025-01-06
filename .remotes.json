@@ -1,8 +1,0 @@
-[
-  {
-    "package": "tmap",
-    "url": "https://github.com/r-tmap/tmap",
-    "via": ["tmaptools"],
-    "from": "tmaptools"
-  }
-]
