@@ -8,6 +8,12 @@
 [submodule "tmap.cartogram"]
 	path = tmap.cartogram
 	url = https://github.com/r-tmap/tmap.cartogram
+[submodule "tmap.glyphs"]
+	path = tmap.glyphs
+	url = https://github.com/r-tmap/tmap.glyphs
+[submodule "tmap.networks"]
+	path = tmap.networks
+	url = https://github.com/r-tmap/tmap.networks
 [submodule "tmaptools"]
 	path = tmaptools
 	url = https://github.com/r-tmap/tmaptools
