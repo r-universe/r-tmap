@@ -17,6 +17,9 @@
 [submodule "tmap.networks"]
 	path = tmap.networks
 	url = https://github.com/r-tmap/tmap.networks
+[submodule "tmap.sources"]
+	path = tmap.sources
+	url = https://github.com/r-tmap/tmap.sources
 [submodule "tmaptools"]
 	path = tmaptools
 	url = https://github.com/r-tmap/tmaptools
